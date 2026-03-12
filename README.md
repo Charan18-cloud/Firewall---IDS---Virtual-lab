@@ -129,9 +129,10 @@ Alerts were clustered around the scan window, confirming a direct correlation be
 ## 🗂️ Repository Structure
 
 ```
-📁 screenshots/        → Lab setup and results screenshots
-📁 report/             → Full research paper (PDF/DOCX)
-README.md              → Project overview (this file)
+📁 Firewall/           → Folder
+📁 screenshots/         → Lab setup and results screenshots
+📁 Project/             → Full research paper 
+README.md               → Project overview (this file)
 ```
 
 ---
